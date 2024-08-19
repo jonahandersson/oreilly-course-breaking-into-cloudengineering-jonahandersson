@@ -27,7 +27,7 @@ const HomePage = () => {
     // Create default list of does not exist
     useEffect(() => {
         if (appContext.state.lists?.length === 0) {
-            actions.lists.save({ name: 'My List' });
+            actions.lists.save({ name: 'My Cloud Engineering Tasks List' });
         }
     }, [actions.lists, appContext.state.lists?.length])
 
