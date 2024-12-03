@@ -5,7 +5,7 @@
 
  This code demo examples are open-source and created using the community-driven azd templates. 
 
- - For official documentation and guide, please learn more about the templates available on https://github.com/Azure/awesome-azd
+ - For official documentation, open-source license code of conduct, and user guide, please learn more about the templates available on https://github.com/Azure/awesome-azd
  - To Contribute to the azd community, visit https://azure.github.io/awesome-azd/docs/contribute 
  - Also check out the azd temples next-steps.md for any customization you need to do to start your hands-on
 
