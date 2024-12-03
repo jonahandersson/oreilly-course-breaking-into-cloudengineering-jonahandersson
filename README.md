@@ -3,11 +3,15 @@
 
 ## Complimentary Code Examples using Awesome Azd Templates 
 
- This azd code demo examples are created using the open-source community-driven Awesome AZD Templates.
+ This code demo examples are open-source and created using the community-driven azd templates. 
 
- - Please learn more about the templates available on https://github.com/Azure/awesome-azd
-
+ - For official documentation and guide, please learn more about the templates available on https://github.com/Azure/awesome-azd
  - To Contribute to the azd community, visit https://azure.github.io/awesome-azd/docs/contribute 
+ - Also check out the azd temples next-steps.md for any customization you need to do to start your hands-on
+
+Please note that this repo is just a simple example demo to get you started and to give you an overview of how cloud engineering and development works using at least few tools such as C# .NET, Microsoft Azure as a cloud platform, and azd templates as a developer tool for deployment.
+
+There are different ways on how you can build for the cloud and usually it depends on what you are building, developing and which cloud computing platform you are building it for. 
 
 ## About Course 
 
@@ -41,6 +45,6 @@ To learn about using .NET on Microsoft Azure as a cloud platform, I recommend to
 
 ## Issues and Help 
 
-For any issues on this repo examples, please reach out to Jonah via LinkedIn or you can also create a PR.
+For any issues on this repo examples, please reach out to Jonah via [LinkedIn](https://www.linkedin.com/in/jonahandersson/) or you can also create a PR.
 
 
