@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/azure-dev/main/schemas/v1.0/azure.yaml.json
+
+name: oreilly-course-breaking-into-cloudengineering-jonahandersson
+metadata:
+    template: azd-init@1.9.5
+services:
+    api:
+        project: code-example-project1\src\api
+        host: containerapp
+        language: dotnet
+    tests:
+        project: code-example-project1\tests
+        host: containerapp
+        language: ts
+    web:
+        project: code-example-project1\src\web
+        host: containerapp
+        language: ts
+        dist: dist
+        docker:
+            path: Dockerfile
