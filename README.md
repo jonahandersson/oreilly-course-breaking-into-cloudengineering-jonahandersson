@@ -3,7 +3,9 @@
 
 ## Complimentary Code Examples using Awesome Azd Templates 
 
- This code demo examples are open-source and created using the community-driven azd templates. 
+ This is a free and complimentary code demo examples are open-source and created using the Awesome azd templates for cloud development and deployment to Microsoft Azure. 
+
+ This repo uses one of the azd templates just to demostrate how it works on building an app to the cloud with its different components and essential parts for it.  
 
  - For official documentation, open-source license code of conduct, and user guide, please learn more about the templates available on https://github.com/Azure/awesome-azd
  - To Contribute to the azd community, visit https://azure.github.io/awesome-azd/docs/contribute 
