@@ -25,7 +25,7 @@ As a Microsoft Most Valuable Professional for Microsoft Azure and a Microsoft Ce
 
 Jonah enjoys tackling complex problems and is passionate about developing modern applications in .NET using cutting-edge cloud technologies like Microsoft Azure. She is committed to continuous learning and enjoys connecting with other developers through tech communities and international public events. She is recently nominated and selected as a MCT Regional Lead 2024 in her region that supports and help the Microsoft Certified Trainers community. 
 
-In addition to her technical work, Jonah is a committed and inclusive community leader in the Nordics. She is the founder and a community leader of the Azure User Group Sweden, an inclusive tech community focused on Azure technology. She is also awarded as the Developer of the Year at the Nordic Women in Tech Awards 2023 and Developer of the Year 2024 at Developers Day Sweden.
+In addition to her technical work, Jonah is a committed and inclusive community leader in the Nordics. She is the founder and a community leader of the [Azure User Group Sweden](https://www.meetup.com/azureusergroupsundsvallsverige/?msockid=0588d43c1eb96eaa1882c0851f916f00), an inclusive tech community focused on Azure technology. She is also awarded as the Developer of the Year at the Nordic Women in Tech Awards 2023 and Developer of the Year 2024 at Developers Day Sweden.
 
 Jonah advocates for gender equality, diversity, and inclusion in the tech industry. She volunteers as a mentor to young women seeking to build careers in tech and is a passionate public speaker on these topics. Jonah is also the co-host of the ExtendWomenInTech Podcast, where she shares inspiration to inspire tech and promote inclusive tech for everyone.
 
