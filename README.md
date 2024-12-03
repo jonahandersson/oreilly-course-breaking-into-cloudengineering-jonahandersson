@@ -1,7 +1,7 @@
 # Breaking Into Cloud Engineering (O'Reilly On-Demand Course) by Jonah Andersson 
 
 
-## Complimentary Code Examples using Awesome Azd Templates 
+## Complimentary and Free Code Examples using Awesome Azd Templates for Building Apps on Azure
 
  This is a free and complimentary code demo examples are open-source and created using the Awesome azd templates for cloud development and deployment to Microsoft Azure. 
 
@@ -11,13 +11,27 @@
  - To Contribute to the azd community, visit https://azure.github.io/awesome-azd/docs/contribute 
  - Also check out the azd temples next-steps.md for any customization you need to do to start your hands-on
 
-Please note that this repo is just a simple example demo to get you started and to give you an overview of how cloud engineering and development works using at least few tools such as C# .NET, Microsoft Azure as a cloud platform, and azd templates as a developer tool for deployment.
+Please note that this repo is just a simple example demo to get you started. Use this example and other references mentioned and recommended as a supplementary free learning references.
+
+The course  to give you an overview of how cloud engineering and development works using at least few tools such as C# .NET, Microsoft Azure as a cloud platform, and azd templates as a developer tool for deployment.
 
 There are different ways on how you can build for the cloud and usually it depends on what you are building, developing and which cloud computing platform you are building it for. 
 
 ## About Course 
 
 Whether you're new to tech, a student, or someone already working in IT, there are plenty of reasons to pursue a career in cloud computing. Cloud engineers are among the most in-demand and highly-paid professionals in tech, and becoming increasingly vital to organizations as they adopt new cloud services and move workloads to the cloud. In this course, you will learn what it takes to break into this nearly $700 billion-and-growing industry and start navigating your own path towards a successful cloud career. What does a day in the life of a cloud engineer look like? What are the essential skills one needs, and how do you go about obtaining them? Join author, speaker, and cloud expert Jonah Andersson to explore the role of cloud engineers, along with all of the foundational concepts and skills needed to become one. After this course, you’ll be equipped to build a learning plan and career plan that can help get you started in this lucrative and far-reaching field.
+
+### This course will help you with
+- Understand the cloud engineering role and the building blocks needed for becoming one.
+- Understand the fundamentals of cloud computing, and be able to describe and identify the various responsibilities of a cloud engineer.
+- Be able to form a study plan and chart your own path towards a cloud engineering role based on your existing background and experience.
+
+### This course if: 
+- You are just getting started in your IT career and want to know what it takes to become a cloud engineer.
+- You are exploring your next career move and want to gain insight into the field of cloud computing.
+- You are looking to transition from a non-tech role into a tech role, particularly with a cloud emphasis.
+- You want to know how your existing skills could transfer into a cloud role and learn about the best approaches for upskilling in the cloud.
+
 
 ## About Jonah Andersson 
 
@@ -45,8 +59,7 @@ Kindly refer the guidance on the use and check the official learning guide of Az
 
 To learn about using .NET on Microsoft Azure as a cloud platform, I recommend to visit [Azure for .NET Developers](https://learn.microsoft.com/en-gb/azure/developer/azure-developer-cli/overview?tabs=windows&WT.mc_id=AZ-MVP-5004251) learning resources available for everybody.
 
-## Issues and Help 
+## Issues, Questions, Collab, and Help 
 
 For any issues on this repo examples, please reach out to Jonah via [LinkedIn](https://www.linkedin.com/in/jonahandersson/) or you can also create a PR.
-
 
