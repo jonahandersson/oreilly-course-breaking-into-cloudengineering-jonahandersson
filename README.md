@@ -39,7 +39,7 @@ Visit [Breaking Into Cloud Engineering: A Career Roadmap for Absolute Beginners]
 
 Please feel free to navigate the code example templates, fork on your own repos as you need. 
 
-Please refer to use and check the official learning guide of Azure Developer CLI (azd) at [Microsoft Learn](https://learn.microsoft.com/en-gb/azure/developer/azure-developer-cli&WT.mc_id=AZ-MVP-5004251)
+Kindly refer the guidance on the use and check the official learning guide of Azure Developer CLI (azd) at [Microsoft Learn](https://learn.microsoft.com/en-gb/azure/developer/azure-developer-cli&WT.mc_id=AZ-MVP-5004251)
 
 To learn about using .NET on Microsoft Azure as a cloud platform, I recommend to visit [Azure for .NET Developers](https://learn.microsoft.com/en-gb/azure/developer/azure-developer-cli/overview?tabs=windows&WT.mc_id=AZ-MVP-5004251) learning resources available for everybody.
 
